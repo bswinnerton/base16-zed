@@ -1,0 +1,7 @@
+{
+  "name": "base16",
+  "version": "0.0.1",
+  "authors": ["Brooks Swinnerton <bswinnerton@gmail.com>"],
+  "description": "Chris Kempson's base16 Themes",
+  "repository": "https://github.com/bswinnerton/base16-zed"
+}
