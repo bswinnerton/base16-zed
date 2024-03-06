@@ -1,6 +1,7 @@
 # ![Base16](screenshots/logo.png)
 
 A port of the base16 color schemes designed by Chris Kempson for the Zed editor.
+The themes are generated based on schemes sourced from the [tinted-theming organization](https://github.com/tinted-theming/home).
 
 ## base16-ocean
 
