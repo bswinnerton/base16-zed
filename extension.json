@@ -1,7 +1,11 @@
 {
   "name": "base16",
-  "version": "0.0.4",
-  "authors": ["Brooks Swinnerton <bswinnerton@gmail.com>"],
+  "version": "0.1.0",
+  "authors": [
+    "Brooks Swinnerton <bswinnerton@gmail.com>",
+    "Tim Chmielecki <me@timcki.com>",
+    "Kevin Gyori <hi@gyori.me>"
+  ],
   "description": "Chris Kempson's base16 Themes",
   "repository": "https://github.com/bswinnerton/base16-zed"
 }
