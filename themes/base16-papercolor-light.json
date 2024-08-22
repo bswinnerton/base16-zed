@@ -1,7 +1,9 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
   "name": "base16",
-  "author": "Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
+  "author": "Jon Leopard (http://github.com/jonleopard)
+based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+",
   "themes": [
     {
       "name": "Base16 PaperColor Light",

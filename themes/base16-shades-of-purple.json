@@ -1,7 +1,9 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
   "name": "base16",
-  "author": "Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).",
+  "author": "Iolar Demartini Junior (http://github.com/demartini
+based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+",
   "themes": [
     {
       "name": "Base16 Shades of Purple",

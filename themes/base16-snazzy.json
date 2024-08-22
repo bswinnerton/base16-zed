@@ -1,7 +1,9 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
   "name": "base16",
-  "author": "Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)",
+  "author": "Chawye Hsu (https://github.com/chawyehsu)
+based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+",
   "themes": [
     {
       "name": "Base16 Snazzy",
