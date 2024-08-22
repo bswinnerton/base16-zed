@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Rosé Pine Dawn",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#f2e9de",
         "border.variant": "#f2e9de",

@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 check_executable() {
     if command -v "$1" &> /dev/null; then
@@ -10,27 +10,30 @@ check_executable() {
     fi
 }
 
-# Attempt to locate base16-builder-go executable
-check_executable "base16-builder-go"
+# Attempt to locate tinted-builder-rust executable
+check_executable "tinted-builder-rust"
 execution_status=$?
 
 if [ $execution_status -eq 1 ]; then
     # Executable found in $PATH
-    base16_builder_path="base16-builder-go"
+    tinted_builder_path="tinted-builder-rust"
 elif [ $execution_status -eq 2 ]; then
     # Executable found in the current working directory
-    base16_builder_path="./base16-builder-go"
+    tinted_builder_path="./tinted-builder-rust"
 else
     # Executable not found, display error message and exit
-    echo "base16-builder-go executable not found in \$PATH or in the current directory ($PWD)."
-    echo "Please run 'go build' in the base16-builder-go folder or add it to your \$PATH."
+    echo "tinted-builder-rust executable not found in \$PATH or in the current directory ($PWD)."
+    echo "Please install tinted-builder-rust using cargo, Homebrew, or download the binary from the releases page."
     exit 1
 fi
 
-# execute base16-builder-go with all arguments passed to this script
-"$base16_builder_path" "$@"
+# Sync the latest schemes
+"$tinted_builder_path" sync
 
-# for every theme that ends with _custom.json in themes/ remove the corresponding theme wihout the _custom.json
+# Build the themes
+"$tinted_builder_path" build .
+
+# For every theme that ends with _custom.json in themes/ remove the corresponding theme without the _custom.json
 for theme in themes/*_custom.json; do
     theme_name=$(basename "$theme" _custom.json)
     if [ -f "themes/$theme_name.json" ]; then

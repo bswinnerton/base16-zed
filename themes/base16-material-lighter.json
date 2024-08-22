@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Material Lighter",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#cceae7",
         "border.variant": "#cceae7",

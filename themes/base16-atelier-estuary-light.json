@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Atelier Estuary Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#929181",
         "border.variant": "#929181",

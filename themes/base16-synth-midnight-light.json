@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Synth Midnight Terminal Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#c1c3c4",
         "border.variant": "#c1c3c4",

@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Tomorrow",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d6d6d6",
         "border.variant": "#d6d6d6",

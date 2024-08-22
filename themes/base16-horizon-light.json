@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Horizon Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#f9cbbe",
         "border.variant": "#f9cbbe",

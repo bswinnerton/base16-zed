@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Humanoid light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#deded8",
         "border.variant": "#deded8",

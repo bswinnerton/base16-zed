@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 iA Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#bde5f2",
         "border.variant": "#bde5f2",

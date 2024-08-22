@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 ShadeSmear Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#c0c0c0",
         "border.variant": "#c0c0c0",

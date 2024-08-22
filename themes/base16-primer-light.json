@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Primer Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d1d5da",
         "border.variant": "#d1d5da",

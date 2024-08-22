@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Icy Dark",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#041f23",
         "border.variant": "#041f23",

@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Windows NT Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d5d5d5",
         "border.variant": "#d5d5d5",

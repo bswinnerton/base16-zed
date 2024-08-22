@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Google Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#c5c8c6",
         "border.variant": "#c5c8c6",

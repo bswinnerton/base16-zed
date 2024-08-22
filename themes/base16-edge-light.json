@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Edge Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d69822",
         "border.variant": "#d69822",

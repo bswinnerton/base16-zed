@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 One Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#e5e5e6",
         "border.variant": "#e5e5e6",
