@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Unikitty Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#c4c3c5",
         "border.variant": "#c4c3c5",

@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Tokyo City Terminal Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d8e2ec",
         "border.variant": "#d8e2ec",

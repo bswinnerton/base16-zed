@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Windows 95 Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#c4c4c4",
         "border.variant": "#c4c4c4",

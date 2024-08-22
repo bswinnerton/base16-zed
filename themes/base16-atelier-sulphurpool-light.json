@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Atelier Sulphurpool Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#979db4",
         "border.variant": "#979db4",

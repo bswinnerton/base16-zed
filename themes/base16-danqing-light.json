@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 DanQing Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#e0f0ef",
         "border.variant": "#e0f0ef",

@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Harmonic16 Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#cbd6e2",
         "border.variant": "#cbd6e2",

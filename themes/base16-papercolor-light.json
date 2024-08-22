@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 PaperColor Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#008700",
         "border.variant": "#008700",

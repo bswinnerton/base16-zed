@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Oxocarbon Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#525252",
         "border.variant": "#525252",

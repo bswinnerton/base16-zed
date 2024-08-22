@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Tokyo City Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#edeff6",
         "border.variant": "#edeff6",

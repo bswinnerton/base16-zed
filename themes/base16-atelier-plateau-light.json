@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Atelier Plateau Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#8a8585",
         "border.variant": "#8a8585",

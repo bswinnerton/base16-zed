@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 standardized-light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#cccccc",
         "border.variant": "#cccccc",

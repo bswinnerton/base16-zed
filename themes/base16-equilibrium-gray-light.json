@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Equilibrium Gray Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d4d4d4",
         "border.variant": "#d4d4d4",

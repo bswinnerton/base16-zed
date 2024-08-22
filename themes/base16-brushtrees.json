@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Brush Trees",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#b0c5c8",
         "border.variant": "#b0c5c8",

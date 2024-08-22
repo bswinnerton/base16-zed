@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Solar Flare Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#a6afb8",
         "border.variant": "#a6afb8",
