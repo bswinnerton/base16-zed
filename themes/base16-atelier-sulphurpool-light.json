@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Atelier Sulphurpool Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#979db4",
         "border.variant": "#979db4",
@@ -47,7 +47,7 @@
         "panel.background": "#f5f7ff",
         "panel.focused_border": "#979db4",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#979db4",
+        "scrollbar.thumb.background": "#979db4",
         "scrollbar.thumb.hover_background": "#898ea4",
         "scrollbar.thumb.border": "#979db46f",
         "scrollbar.track.background": "#f5f7ff",
@@ -123,7 +123,7 @@
         "modified.border": "#3d8fd1",
         "predictive": "#898ea4",
         "predictive.background": "#dfe2f1",
-        "predictive.border":"#979db4",
+        "predictive.border": "#979db4",
         "renamed": "#c08b30",
         "renamed.background": "#f5f7ff",
         "renamed.border": "#c08b30",

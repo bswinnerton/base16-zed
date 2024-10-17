@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 PaperColor Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#008700",
         "border.variant": "#008700",
@@ -47,7 +47,7 @@
         "panel.background": "#eeeeee",
         "panel.focused_border": "#008700",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#008700",
+        "scrollbar.thumb.background": "#008700",
         "scrollbar.thumb.hover_background": "#5f8700",
         "scrollbar.thumb.border": "#0087006f",
         "scrollbar.track.background": "#eeeeee",
@@ -123,7 +123,7 @@
         "modified.border": "#d75f00",
         "predictive": "#5f8700",
         "predictive.background": "#af0000",
-        "predictive.border":"#008700",
+        "predictive.border": "#008700",
         "renamed": "#d70087",
         "renamed.background": "#eeeeee",
         "renamed.border": "#d70087",

@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 selenized-light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d5cdb6",
         "border.variant": "#d5cdb6",
@@ -47,7 +47,7 @@
         "panel.background": "#fbf3db",
         "panel.focused_border": "#d5cdb6",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#d5cdb6",
+        "scrollbar.thumb.background": "#d5cdb6",
         "scrollbar.thumb.hover_background": "#909995",
         "scrollbar.thumb.border": "#d5cdb66f",
         "scrollbar.track.background": "#fbf3db",
@@ -123,7 +123,7 @@
         "modified.border": "#006dce",
         "predictive": "#909995",
         "predictive.background": "#ece3cc",
-        "predictive.border":"#d5cdb6",
+        "predictive.border": "#d5cdb6",
         "renamed": "#a78300",
         "renamed.background": "#fbf3db",
         "renamed.border": "#a78300",

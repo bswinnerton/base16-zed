@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Atelier Savanna Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#87928a",
         "border.variant": "#87928a",
@@ -47,7 +47,7 @@
         "panel.background": "#ecf4ee",
         "panel.focused_border": "#87928a",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#87928a",
+        "scrollbar.thumb.background": "#87928a",
         "scrollbar.thumb.hover_background": "#78877d",
         "scrollbar.thumb.border": "#87928a6f",
         "scrollbar.track.background": "#ecf4ee",
@@ -123,7 +123,7 @@
         "modified.border": "#478c90",
         "predictive": "#78877d",
         "predictive.background": "#dfe7e2",
-        "predictive.border":"#87928a",
+        "predictive.border": "#87928a",
         "renamed": "#a07e3b",
         "renamed.background": "#ecf4ee",
         "renamed.border": "#a07e3b",

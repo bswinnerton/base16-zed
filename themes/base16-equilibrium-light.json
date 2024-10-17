@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Equilibrium Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d8d4cb",
         "border.variant": "#d8d4cb",
@@ -47,7 +47,7 @@
         "panel.background": "#f5f0e7",
         "panel.focused_border": "#d8d4cb",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#d8d4cb",
+        "scrollbar.thumb.background": "#d8d4cb",
         "scrollbar.thumb.hover_background": "#73777f",
         "scrollbar.thumb.border": "#d8d4cb6f",
         "scrollbar.track.background": "#f5f0e7",
@@ -123,7 +123,7 @@
         "modified.border": "#0073b5",
         "predictive": "#73777f",
         "predictive.background": "#e7e2d9",
-        "predictive.border":"#d8d4cb",
+        "predictive.border": "#d8d4cb",
         "renamed": "#9d6f00",
         "renamed.background": "#f5f0e7",
         "renamed.border": "#9d6f00",

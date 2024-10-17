@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Windows 10 Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d9d9d9",
         "border.variant": "#d9d9d9",
@@ -47,7 +47,7 @@
         "panel.background": "#f2f2f2",
         "panel.focused_border": "#d9d9d9",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#d9d9d9",
+        "scrollbar.thumb.background": "#d9d9d9",
         "scrollbar.thumb.hover_background": "#cccccc",
         "scrollbar.thumb.border": "#d9d9d96f",
         "scrollbar.track.background": "#f2f2f2",
@@ -123,7 +123,7 @@
         "modified.border": "#0037da",
         "predictive": "#cccccc",
         "predictive.background": "#e5e5e5",
-        "predictive.border":"#d9d9d9",
+        "predictive.border": "#d9d9d9",
         "renamed": "#c19c00",
         "renamed.background": "#f2f2f2",
         "renamed.border": "#c19c00",

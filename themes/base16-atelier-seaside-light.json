@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Atelier Seaside Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#8ca68c",
         "border.variant": "#8ca68c",
@@ -47,7 +47,7 @@
         "panel.background": "#f4fbf4",
         "panel.focused_border": "#8ca68c",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#8ca68c",
+        "scrollbar.thumb.background": "#8ca68c",
         "scrollbar.thumb.hover_background": "#809980",
         "scrollbar.thumb.border": "#8ca68c6f",
         "scrollbar.track.background": "#f4fbf4",
@@ -123,7 +123,7 @@
         "modified.border": "#3d62f5",
         "predictive": "#809980",
         "predictive.background": "#cfe8cf",
-        "predictive.border":"#8ca68c",
+        "predictive.border": "#8ca68c",
         "renamed": "#98981b",
         "renamed.background": "#f4fbf4",
         "renamed.border": "#98981b",

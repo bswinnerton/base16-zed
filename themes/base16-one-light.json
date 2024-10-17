@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 One Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#e5e5e6",
         "border.variant": "#e5e5e6",
@@ -47,7 +47,7 @@
         "panel.background": "#fafafa",
         "panel.focused_border": "#e5e5e6",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#e5e5e6",
+        "scrollbar.thumb.background": "#e5e5e6",
         "scrollbar.thumb.hover_background": "#a0a1a7",
         "scrollbar.thumb.border": "#e5e5e66f",
         "scrollbar.track.background": "#fafafa",
@@ -123,7 +123,7 @@
         "modified.border": "#4078f2",
         "predictive": "#a0a1a7",
         "predictive.background": "#f0f0f1",
-        "predictive.border":"#e5e5e6",
+        "predictive.border": "#e5e5e6",
         "renamed": "#c18401",
         "renamed.background": "#fafafa",
         "renamed.border": "#c18401",

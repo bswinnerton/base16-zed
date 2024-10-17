@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Atelier Cave Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#8b8792",
         "border.variant": "#8b8792",
@@ -47,7 +47,7 @@
         "panel.background": "#efecf4",
         "panel.focused_border": "#8b8792",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#8b8792",
+        "scrollbar.thumb.background": "#8b8792",
         "scrollbar.thumb.hover_background": "#7e7887",
         "scrollbar.thumb.border": "#8b87926f",
         "scrollbar.track.background": "#efecf4",
@@ -123,7 +123,7 @@
         "modified.border": "#576ddb",
         "predictive": "#7e7887",
         "predictive.background": "#e2dfe7",
-        "predictive.border":"#8b8792",
+        "predictive.border": "#8b8792",
         "renamed": "#a06e3b",
         "renamed.background": "#efecf4",
         "renamed.border": "#a06e3b",

@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Edge Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d69822",
         "border.variant": "#d69822",
@@ -47,7 +47,7 @@
         "panel.background": "#fafafa",
         "panel.focused_border": "#d69822",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#d69822",
+        "scrollbar.thumb.background": "#d69822",
         "scrollbar.thumb.hover_background": "#5e646f",
         "scrollbar.thumb.border": "#d698226f",
         "scrollbar.track.background": "#fafafa",
@@ -123,7 +123,7 @@
         "modified.border": "#6587bf",
         "predictive": "#5e646f",
         "predictive.background": "#7c9f4b",
-        "predictive.border":"#d69822",
+        "predictive.border": "#d69822",
         "renamed": "#d69822",
         "renamed.background": "#fafafa",
         "renamed.border": "#d69822",

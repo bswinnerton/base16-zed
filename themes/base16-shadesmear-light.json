@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 ShadeSmear Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#c0c0c0",
         "border.variant": "#c0c0c0",
@@ -47,7 +47,7 @@
         "panel.background": "#dbdbdb",
         "panel.focused_border": "#c0c0c0",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#c0c0c0",
+        "scrollbar.thumb.background": "#c0c0c0",
         "scrollbar.thumb.hover_background": "#4e4e4e",
         "scrollbar.thumb.border": "#c0c0c06f",
         "scrollbar.track.background": "#dbdbdb",
@@ -123,7 +123,7 @@
         "modified.border": "#376388",
         "predictive": "#4e4e4e",
         "predictive.background": "#e4e4e4",
-        "predictive.border":"#c0c0c0",
+        "predictive.border": "#c0c0c0",
         "renamed": "#307878",
         "renamed.background": "#dbdbdb",
         "renamed.border": "#307878",

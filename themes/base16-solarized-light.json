@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Solarized Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#93a1a1",
         "border.variant": "#93a1a1",
@@ -47,7 +47,7 @@
         "panel.background": "#fdf6e3",
         "panel.focused_border": "#93a1a1",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#93a1a1",
+        "scrollbar.thumb.background": "#93a1a1",
         "scrollbar.thumb.hover_background": "#839496",
         "scrollbar.thumb.border": "#93a1a16f",
         "scrollbar.track.background": "#fdf6e3",
@@ -123,7 +123,7 @@
         "modified.border": "#268bd2",
         "predictive": "#839496",
         "predictive.background": "#eee8d5",
-        "predictive.border":"#93a1a1",
+        "predictive.border": "#93a1a1",
         "renamed": "#b58900",
         "renamed.background": "#fdf6e3",
         "renamed.border": "#b58900",

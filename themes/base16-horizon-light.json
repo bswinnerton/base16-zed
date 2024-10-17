@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Horizon Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#f9cbbe",
         "border.variant": "#f9cbbe",
@@ -47,7 +47,7 @@
         "panel.background": "#fdf0ed",
         "panel.focused_border": "#f9cbbe",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#f9cbbe",
+        "scrollbar.thumb.background": "#f9cbbe",
         "scrollbar.thumb.hover_background": "#bdb3b1",
         "scrollbar.thumb.border": "#f9cbbe6f",
         "scrollbar.track.background": "#fdf0ed",
@@ -123,7 +123,7 @@
         "modified.border": "#da103f",
         "predictive": "#bdb3b1",
         "predictive.background": "#fadad1",
-        "predictive.border":"#f9cbbe",
+        "predictive.border": "#f9cbbe",
         "renamed": "#fbe0d9",
         "renamed.background": "#fdf0ed",
         "renamed.border": "#fbe0d9",

@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Summerfruit Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d0d0d0",
         "border.variant": "#d0d0d0",
@@ -47,7 +47,7 @@
         "panel.background": "#ffffff",
         "panel.focused_border": "#d0d0d0",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#d0d0d0",
+        "scrollbar.thumb.background": "#d0d0d0",
         "scrollbar.thumb.hover_background": "#b0b0b0",
         "scrollbar.thumb.border": "#d0d0d06f",
         "scrollbar.track.background": "#ffffff",
@@ -123,7 +123,7 @@
         "modified.border": "#3777e6",
         "predictive": "#b0b0b0",
         "predictive.background": "#e0e0e0",
-        "predictive.border":"#d0d0d0",
+        "predictive.border": "#d0d0d0",
         "renamed": "#aba800",
         "renamed.background": "#ffffff",
         "renamed.border": "#aba800",

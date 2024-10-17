@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 DanQing Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#e0f0ef",
         "border.variant": "#e0f0ef",
@@ -47,7 +47,7 @@
         "panel.background": "#fcfefd",
         "panel.focused_border": "#e0f0ef",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#e0f0ef",
+        "scrollbar.thumb.background": "#e0f0ef",
         "scrollbar.thumb.hover_background": "#cad8d2",
         "scrollbar.thumb.border": "#e0f0ef6f",
         "scrollbar.track.background": "#fcfefd",
@@ -123,7 +123,7 @@
         "modified.border": "#b0a4e3",
         "predictive": "#cad8d2",
         "predictive.background": "#ecf6f2",
-        "predictive.border":"#e0f0ef",
+        "predictive.border": "#e0f0ef",
         "renamed": "#f0c239",
         "renamed.background": "#fcfefd",
         "renamed.border": "#f0c239",

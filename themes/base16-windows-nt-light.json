@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Windows NT Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d5d5d5",
         "border.variant": "#d5d5d5",
@@ -47,7 +47,7 @@
         "panel.background": "#ffffff",
         "panel.focused_border": "#d5d5d5",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#d5d5d5",
+        "scrollbar.thumb.background": "#d5d5d5",
         "scrollbar.thumb.hover_background": "#c0c0c0",
         "scrollbar.thumb.border": "#d5d5d56f",
         "scrollbar.track.background": "#ffffff",
@@ -123,7 +123,7 @@
         "modified.border": "#000080",
         "predictive": "#c0c0c0",
         "predictive.background": "#eaeaea",
-        "predictive.border":"#d5d5d5",
+        "predictive.border": "#d5d5d5",
         "renamed": "#808000",
         "renamed.background": "#ffffff",
         "renamed.border": "#808000",

@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Oxocarbon Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#525252",
         "border.variant": "#525252",
@@ -47,7 +47,7 @@
         "panel.background": "#f2f4f8",
         "panel.focused_border": "#525252",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#525252",
+        "scrollbar.thumb.background": "#525252",
         "scrollbar.thumb.hover_background": "#161616",
         "scrollbar.thumb.border": "#5252526f",
         "scrollbar.track.background": "#f2f4f8",
@@ -123,7 +123,7 @@
         "modified.border": "#42be65",
         "predictive": "#161616",
         "predictive.background": "#dde1e6",
-        "predictive.border":"#525252",
+        "predictive.border": "#525252",
         "renamed": "#ff6f00",
         "renamed.background": "#f2f4f8",
         "renamed.border": "#ff6f00",

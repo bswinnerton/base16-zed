@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Atelier Estuary Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#929181",
         "border.variant": "#929181",
@@ -47,7 +47,7 @@
         "panel.background": "#f4f3ec",
         "panel.focused_border": "#929181",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#929181",
+        "scrollbar.thumb.background": "#929181",
         "scrollbar.thumb.hover_background": "#878573",
         "scrollbar.thumb.border": "#9291816f",
         "scrollbar.track.background": "#f4f3ec",
@@ -123,7 +123,7 @@
         "modified.border": "#36a166",
         "predictive": "#878573",
         "predictive.background": "#e7e6df",
-        "predictive.border":"#929181",
+        "predictive.border": "#929181",
         "renamed": "#a5980d",
         "renamed.background": "#f4f3ec",
         "renamed.border": "#a5980d",

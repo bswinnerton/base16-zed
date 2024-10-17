@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Windows 95 Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#c4c4c4",
         "border.variant": "#c4c4c4",
@@ -47,7 +47,7 @@
         "panel.background": "#fcfcfc",
         "panel.focused_border": "#c4c4c4",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#c4c4c4",
+        "scrollbar.thumb.background": "#c4c4c4",
         "scrollbar.thumb.hover_background": "#a8a8a8",
         "scrollbar.thumb.border": "#c4c4c46f",
         "scrollbar.track.background": "#fcfcfc",
@@ -123,7 +123,7 @@
         "modified.border": "#0000a8",
         "predictive": "#a8a8a8",
         "predictive.background": "#e0e0e0",
-        "predictive.border":"#c4c4c4",
+        "predictive.border": "#c4c4c4",
         "renamed": "#a85400",
         "renamed.background": "#fcfcfc",
         "renamed.border": "#a85400",

@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Humanoid light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#deded8",
         "border.variant": "#deded8",
@@ -47,7 +47,7 @@
         "panel.background": "#f8f8f2",
         "panel.focused_border": "#deded8",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#deded8",
+        "scrollbar.thumb.background": "#deded8",
         "scrollbar.thumb.hover_background": "#c0c0bd",
         "scrollbar.thumb.border": "#deded86f",
         "scrollbar.track.background": "#f8f8f2",
@@ -123,7 +123,7 @@
         "modified.border": "#0082c9",
         "predictive": "#c0c0bd",
         "predictive.background": "#efefe9",
-        "predictive.border":"#deded8",
+        "predictive.border": "#deded8",
         "renamed": "#ffb627",
         "renamed.background": "#f8f8f2",
         "renamed.border": "#ffb627",
