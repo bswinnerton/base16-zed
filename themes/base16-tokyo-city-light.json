@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Tokyo City Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#edeff6",
         "border.variant": "#edeff6",
@@ -47,7 +47,7 @@
         "panel.background": "#fbfbfd",
         "panel.focused_border": "#edeff6",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#edeff6",
+        "scrollbar.thumb.background": "#edeff6",
         "scrollbar.thumb.hover_background": "#9699a3",
         "scrollbar.thumb.border": "#edeff66f",
         "scrollbar.track.background": "#fbfbfd",
@@ -123,7 +123,7 @@
         "modified.border": "#34548a",
         "predictive": "#9699a3",
         "predictive.background": "#f6f6f8",
-        "predictive.border":"#edeff6",
+        "predictive.border": "#edeff6",
         "renamed": "#4c505e",
         "renamed.background": "#fbfbfd",
         "renamed.border": "#4c505e",

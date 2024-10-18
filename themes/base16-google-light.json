@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Google Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#c5c8c6",
         "border.variant": "#c5c8c6",
@@ -47,7 +47,7 @@
         "panel.background": "#ffffff",
         "panel.focused_border": "#c5c8c6",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#c5c8c6",
+        "scrollbar.thumb.background": "#c5c8c6",
         "scrollbar.thumb.hover_background": "#b4b7b4",
         "scrollbar.thumb.border": "#c5c8c66f",
         "scrollbar.track.background": "#ffffff",
@@ -123,7 +123,7 @@
         "modified.border": "#3971ed",
         "predictive": "#b4b7b4",
         "predictive.background": "#e0e0e0",
-        "predictive.border":"#c5c8c6",
+        "predictive.border": "#c5c8c6",
         "renamed": "#fba922",
         "renamed.background": "#ffffff",
         "renamed.border": "#fba922",

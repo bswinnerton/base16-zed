@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Synth Midnight Terminal Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#c1c3c4",
         "border.variant": "#c1c3c4",
@@ -47,7 +47,7 @@
         "panel.background": "#dddfe0",
         "panel.focused_border": "#c1c3c4",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#c1c3c4",
+        "scrollbar.thumb.background": "#c1c3c4",
         "scrollbar.thumb.hover_background": "#a3a5a6",
         "scrollbar.thumb.border": "#c1c3c46f",
         "scrollbar.track.background": "#dddfe0",
@@ -123,7 +123,7 @@
         "modified.border": "#03aeff",
         "predictive": "#a3a5a6",
         "predictive.background": "#cfd1d2",
-        "predictive.border":"#c1c3c4",
+        "predictive.border": "#c1c3c4",
         "renamed": "#c9d364",
         "renamed.background": "#dddfe0",
         "renamed.border": "#c9d364",

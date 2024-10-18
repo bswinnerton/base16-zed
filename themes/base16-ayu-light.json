@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Ayu Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#f8f9fa",
         "border.variant": "#f8f9fa",
@@ -47,7 +47,7 @@
         "panel.background": "#fafafa",
         "panel.focused_border": "#f8f9fa",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#f8f9fa",
+        "scrollbar.thumb.background": "#f8f9fa",
         "scrollbar.thumb.hover_background": "#abb0b6",
         "scrollbar.thumb.border": "#f8f9fa6f",
         "scrollbar.track.background": "#fafafa",
@@ -123,7 +123,7 @@
         "modified.border": "#36a3d9",
         "predictive": "#abb0b6",
         "predictive.background": "#f3f4f5",
-        "predictive.border":"#f8f9fa",
+        "predictive.border": "#f8f9fa",
         "renamed": "#f2ae49",
         "renamed.background": "#fafafa",
         "renamed.border": "#f2ae49",

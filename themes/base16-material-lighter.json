@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Material Lighter",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#cceae7",
         "border.variant": "#cceae7",
@@ -47,7 +47,7 @@
         "panel.background": "#fafafa",
         "panel.focused_border": "#cceae7",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#cceae7",
+        "scrollbar.thumb.background": "#cceae7",
         "scrollbar.thumb.hover_background": "#ccd7da",
         "scrollbar.thumb.border": "#cceae76f",
         "scrollbar.track.background": "#fafafa",
@@ -123,7 +123,7 @@
         "modified.border": "#6182b8",
         "predictive": "#ccd7da",
         "predictive.background": "#e7eaec",
-        "predictive.border":"#cceae7",
+        "predictive.border": "#cceae7",
         "renamed": "#ffb62c",
         "renamed.background": "#fafafa",
         "renamed.border": "#ffb62c",

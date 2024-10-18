@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Silk Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#90b7b6",
         "border.variant": "#90b7b6",
@@ -47,7 +47,7 @@
         "panel.background": "#e9f1ef",
         "panel.focused_border": "#90b7b6",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#90b7b6",
+        "scrollbar.thumb.background": "#90b7b6",
         "scrollbar.thumb.hover_background": "#5c787b",
         "scrollbar.thumb.border": "#90b7b66f",
         "scrollbar.track.background": "#e9f1ef",
@@ -123,7 +123,7 @@
         "modified.border": "#39aac9",
         "predictive": "#5c787b",
         "predictive.background": "#ccd4d3",
-        "predictive.border":"#90b7b6",
+        "predictive.border": "#90b7b6",
         "renamed": "#cfad25",
         "renamed.background": "#e9f1ef",
         "renamed.border": "#cfad25",

@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Atelier Dune Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#a6a28c",
         "border.variant": "#a6a28c",
@@ -47,7 +47,7 @@
         "panel.background": "#fefbec",
         "panel.focused_border": "#a6a28c",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#a6a28c",
+        "scrollbar.thumb.background": "#a6a28c",
         "scrollbar.thumb.hover_background": "#999580",
         "scrollbar.thumb.border": "#a6a28c6f",
         "scrollbar.track.background": "#fefbec",
@@ -123,7 +123,7 @@
         "modified.border": "#6684e1",
         "predictive": "#999580",
         "predictive.background": "#e8e4cf",
-        "predictive.border":"#a6a28c",
+        "predictive.border": "#a6a28c",
         "renamed": "#ae9513",
         "renamed.background": "#fefbec",
         "renamed.border": "#ae9513",

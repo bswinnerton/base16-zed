@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Heetch Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#7b6d8b",
         "border.variant": "#7b6d8b",
@@ -47,7 +47,7 @@
         "panel.background": "#feffff",
         "panel.focused_border": "#7b6d8b",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#7b6d8b",
+        "scrollbar.thumb.background": "#7b6d8b",
         "scrollbar.thumb.hover_background": "#9c92a8",
         "scrollbar.thumb.border": "#7b6d8b6f",
         "scrollbar.track.background": "#feffff",
@@ -123,7 +123,7 @@
         "modified.border": "#47f9f5",
         "predictive": "#9c92a8",
         "predictive.background": "#392551",
-        "predictive.border":"#7b6d8b",
+        "predictive.border": "#7b6d8b",
         "renamed": "#5ba2b6",
         "renamed.background": "#feffff",
         "renamed.border": "#5ba2b6",

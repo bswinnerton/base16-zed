@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Solar Flare Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#a6afb8",
         "border.variant": "#a6afb8",
@@ -47,7 +47,7 @@
         "panel.background": "#f5f7fa",
         "panel.focused_border": "#a6afb8",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#a6afb8",
+        "scrollbar.thumb.background": "#a6afb8",
         "scrollbar.thumb.hover_background": "#85939e",
         "scrollbar.thumb.border": "#a6afb86f",
         "scrollbar.track.background": "#f5f7fa",
@@ -123,7 +123,7 @@
         "modified.border": "#33b5e1",
         "predictive": "#85939e",
         "predictive.background": "#e8e9ed",
-        "predictive.border":"#a6afb8",
+        "predictive.border": "#a6afb8",
         "renamed": "#e4b51c",
         "renamed.background": "#f5f7fa",
         "renamed.border": "#e4b51c",

@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Unikitty Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#c4c3c5",
         "border.variant": "#c4c3c5",
@@ -47,7 +47,7 @@
         "panel.background": "#ffffff",
         "panel.focused_border": "#c4c3c5",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#c4c3c5",
+        "scrollbar.thumb.background": "#c4c3c5",
         "scrollbar.thumb.hover_background": "#a7a5a8",
         "scrollbar.thumb.border": "#c4c3c56f",
         "scrollbar.track.background": "#ffffff",
@@ -123,7 +123,7 @@
         "modified.border": "#775dff",
         "predictive": "#a7a5a8",
         "predictive.background": "#e1e1e2",
-        "predictive.border":"#c4c3c5",
+        "predictive.border": "#c4c3c5",
         "renamed": "#dc8a0e",
         "renamed.background": "#ffffff",
         "renamed.border": "#dc8a0e",

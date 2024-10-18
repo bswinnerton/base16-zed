@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Tokyo City Terminal Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d8e2ec",
         "border.variant": "#d8e2ec",
@@ -47,7 +47,7 @@
         "panel.background": "#fbfbfd",
         "panel.focused_border": "#d8e2ec",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#d8e2ec",
+        "scrollbar.thumb.background": "#d8e2ec",
         "scrollbar.thumb.hover_background": "#b7c5d3",
         "scrollbar.thumb.border": "#d8e2ec6f",
         "scrollbar.track.background": "#fbfbfd",
@@ -123,7 +123,7 @@
         "modified.border": "#34548a",
         "predictive": "#b7c5d3",
         "predictive.background": "#f6f6f8",
-        "predictive.border":"#d8e2ec",
+        "predictive.border": "#d8e2ec",
         "renamed": "#8f5e15",
         "renamed.background": "#fbfbfd",
         "renamed.border": "#8f5e15",

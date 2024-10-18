@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Tokyo Night Terminal Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#dfe0e5",
         "border.variant": "#dfe0e5",
@@ -47,7 +47,7 @@
         "panel.background": "#d5d6db",
         "panel.focused_border": "#dfe0e5",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#dfe0e5",
+        "scrollbar.thumb.background": "#dfe0e5",
         "scrollbar.thumb.hover_background": "#9699a3",
         "scrollbar.thumb.border": "#dfe0e56f",
         "scrollbar.track.background": "#d5d6db",
@@ -123,7 +123,7 @@
         "modified.border": "#34548a",
         "predictive": "#9699a3",
         "predictive.background": "#cbccd1",
-        "predictive.border":"#dfe0e5",
+        "predictive.border": "#dfe0e5",
         "renamed": "#8f5e15",
         "renamed.background": "#d5d6db",
         "renamed.border": "#8f5e15",

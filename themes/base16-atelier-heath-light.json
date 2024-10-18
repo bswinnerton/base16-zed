@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Atelier Heath Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#ab9bab",
         "border.variant": "#ab9bab",
@@ -47,7 +47,7 @@
         "panel.background": "#f7f3f7",
         "panel.focused_border": "#ab9bab",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#ab9bab",
+        "scrollbar.thumb.background": "#ab9bab",
         "scrollbar.thumb.hover_background": "#9e8f9e",
         "scrollbar.thumb.border": "#ab9bab6f",
         "scrollbar.track.background": "#f7f3f7",
@@ -123,7 +123,7 @@
         "modified.border": "#516aec",
         "predictive": "#9e8f9e",
         "predictive.background": "#d8cad8",
-        "predictive.border":"#ab9bab",
+        "predictive.border": "#ab9bab",
         "renamed": "#bb8a35",
         "renamed.background": "#f7f3f7",
         "renamed.border": "#bb8a35",

@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Primer Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d1d5da",
         "border.variant": "#d1d5da",
@@ -47,7 +47,7 @@
         "panel.background": "#fafbfc",
         "panel.focused_border": "#d1d5da",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#d1d5da",
+        "scrollbar.thumb.background": "#d1d5da",
         "scrollbar.thumb.hover_background": "#959da5",
         "scrollbar.thumb.border": "#d1d5da6f",
         "scrollbar.track.background": "#fafbfc",
@@ -123,7 +123,7 @@
         "modified.border": "#0366d6",
         "predictive": "#959da5",
         "predictive.background": "#e1e4e8",
-        "predictive.border":"#d1d5da",
+        "predictive.border": "#d1d5da",
         "renamed": "#ffd33d",
         "renamed.background": "#fafbfc",
         "renamed.border": "#ffd33d",

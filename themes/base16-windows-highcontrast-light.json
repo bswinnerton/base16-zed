@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Windows High Contrast Light",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#d4d4d4",
         "border.variant": "#d4d4d4",
@@ -47,7 +47,7 @@
         "panel.background": "#fcfcfc",
         "panel.focused_border": "#d4d4d4",
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#d4d4d4",
+        "scrollbar.thumb.background": "#d4d4d4",
         "scrollbar.thumb.hover_background": "#c0c0c0",
         "scrollbar.thumb.border": "#d4d4d46f",
         "scrollbar.track.background": "#fcfcfc",
@@ -123,7 +123,7 @@
         "modified.border": "#000080",
         "predictive": "#c0c0c0",
         "predictive.background": "#e8e8e8",
-        "predictive.border":"#d4d4d4",
+        "predictive.border": "#d4d4d4",
         "renamed": "#808000",
         "renamed.background": "#fcfcfc",
         "renamed.border": "#808000",
