@@ -1,6 +1,7 @@
 id = "base16"
 name = "base16"
 version = "0.1.1"
+schema_version = 1
 authors = [
     "Brooks Swinnerton <bswinnerton@gmail.com>",
     "Tim Chmielecki <me@timcki.com>",
