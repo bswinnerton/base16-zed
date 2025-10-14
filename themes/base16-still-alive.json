@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Still Alive",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#fff018",
         "border.variant": "#fff018",

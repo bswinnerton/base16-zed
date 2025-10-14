@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 selenized-white",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#cdcdcd",
         "border.variant": "#cdcdcd",

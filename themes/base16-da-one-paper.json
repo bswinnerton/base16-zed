@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Da One Paper",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#888888",
         "border.variant": "#888888",

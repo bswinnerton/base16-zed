@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Catppuccin Latte",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#ccd0da",
         "border.variant": "#ccd0da",

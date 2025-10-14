@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Gruvbox Material Light, Hard",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#e0cfa9",
         "border.variant": "#e0cfa9",
