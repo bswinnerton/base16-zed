@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Shapeshifter",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#ababab",
         "border.variant": "#ababab",

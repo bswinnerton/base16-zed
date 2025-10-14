@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Github",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#c8c8fa",
         "border.variant": "#c8c8fa",

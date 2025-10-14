@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 emil",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#9e9eaf",
         "border.variant": "#9e9eaf",

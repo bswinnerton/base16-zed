@@ -5,7 +5,7 @@
   "themes": [
     {
       "name": "Base16 Sakura",
-      "appearance": "dark",
+      "appearance": "light",
       "style": {
         "border": "#e0ccd1",
         "border.variant": "#e0ccd1",
